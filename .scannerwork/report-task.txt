@@ -1,0 +1,6 @@
+projectKey=roman-prj
+serverUrl=http://13.60.168.58:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://13.60.168.58:9000/dashboard?id=roman-prj
+ceTaskId=AZbEltP1aX3h8PpqwSeK
+ceTaskUrl=http://13.60.168.58:9000/api/ce/task?id=AZbEltP1aX3h8PpqwSeK
